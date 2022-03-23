@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "548108507354",
+    "project_id": "heatlhsafeexam",
+    "storage_bucket": "heatlhsafeexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548108507354:android:863692f65719ef8da42de3",
+        "android_client_info": {
+          "package_name": "com.example.healthsafe_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548108507354-r9mfas98p2s0jn3qf3pqaumodu2u9r5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthsafe_exam",
+            "certificate_hash": "e511a5686530a1a43aa93c02c9f63534437196fa"
+          }
+        },
+        {
+          "client_id": "548108507354-3istqe1ulgbkjo3tgibl9rqunjgiipme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYdnN8nDPDQCj2SbXWIdDH68VfU3sZmKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548108507354-3istqe1ulgbkjo3tgibl9rqunjgiipme.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548108507354-oit9an6uovuu2f3tk8ffet8628khcohi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healthsafeexam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
